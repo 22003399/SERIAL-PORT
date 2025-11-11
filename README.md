@@ -38,7 +38,7 @@ void main(void)
 #include <reg51.h>
 void main(void)
 {
-    unsigned char msg[] = "SHYAM";
+    unsigned char msg[] = "MUFFA";
     unsigned char i;
     TMOD = 0x20;
     TH1  = 0xFA;
